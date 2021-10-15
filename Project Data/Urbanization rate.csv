@@ -1,0 +1,219 @@
+Country,Urbanization rate,ISO-code
+Afghanistan,26,AFG
+Albania,62.1,ALB
+Algeria,73.7,DZA
+American Samoa,87.2,ASM
+Andorra,87.9,AND
+Angola,66.8,AGO
+Anguilla,100,AIA
+Antigua and Barbuda,24.4,ATG
+Argentina,92.1,ARG
+Armenia,63.3,ARM
+Aruba,43.7,ABW
+Australia,86.2,AUS
+Austria,58.7,AUT
+Azerbaijan,56.4,AZE
+Bahrain,89.5,BHR
+Bangladesh,38.2,BGD
+Barbados,31.2,BRB
+Belarus,79.5,BLR
+Belgium,98.1,BEL
+Belize,46,BLZ
+Benin,48.4,BEN
+Bermuda,100,BMU
+Bhutan,42.3,BTN
+Bolivia,70.1,BOL
+Bosnia and Herzegovina,49,BIH
+Botswana,70.9,BWA
+Brazil,87.1,BRA
+Brunei,78.3,BRN
+Bulgaria,75.7,BGR
+Burkina Faso,30.6,BFA
+Burundi,13.7,BDI
+Cambodia,24.2,KHM
+Cameroon,57.6,CMR
+Canada,81.6,CAN
+Cape Verde,66.7,CPV
+Cayman Islands,100,CYM
+Central African Republic,42.2,CAF
+Chad,23.5,TCD
+Chile,87.7,CHL
+China,61.4,CHN
+Colombia,81.4,COL
+Comoros,29.4,COM
+Cook Islands,75.5,COK
+Costa Rica,80.8,CRI
+Croatia,57.6,HRV
+Cuba,77.2,CUB
+Curacao,89.1,CUW
+Cyprus,66.8,CYP
+Czech Republic,74.1,CZE
+Democratic Republic of the Congo,45.6,COD
+Denmark,88.1,DNK
+Djibouti,78.1,DJI
+Dominica,71.1,DMA
+Dominican Republic,82.5,DOM
+East Timor,31.3,TLS
+Ecuador,64.2,ECU
+Egypt,42.8,EGY
+El Salvador,73.4,SLV
+Equatorial Guinea,73.1,GNQ
+Eritrea,41.3,ERI
+Estonia,69.2,EST
+Eswatini,24.2,SWZ
+Ethiopia,21.7,ETH
+Faroe Islands,42.4,FRO
+Fiji,57.2,FJI
+Finland,85.5,FIN
+France,81,FRA
+French Polynesia,62,PYF
+Gabon,90.1,GAB
+Georgia,59.5,GEO
+Germany,77.5,DEU
+Ghana,57.3,GHA
+Gibraltar,100,GIB
+Greece,79.7,GRC
+Greenland,87.3,GRL
+Grenada,36.5,GRD
+Guam,94.9,GUM
+Guatemala,51.8,GTM
+Guernsey,31,GGY
+Guinea,44.2,GIN
+Guinea-Bissau,36.5,GIN
+Guyana,26.8,GUY
+Haiti,57.1,HTI
+Honduras,58.4,HND
+Hong Kong,100,HKG
+Hungary,71.9,HUN
+Iceland,93.9,ISL
+India,34.9,IND
+Indonesia,56.6,IDN
+Iran,75.9,IRN
+Iraq,70.9,IRQ
+Ireland,63.7,IRL
+Isle of Man,52.9,IMN
+Israel,92.6,ISR
+Italy,71,ITA
+Ivory Coast,51.7,CIV
+Jamaica,56.3,JAM
+Japan,91.8,JPN
+Jersey,31,JEY
+Jordan,91.4,JOR
+Kazakhstan,57.7,KAZ
+Kenya,28,KEN
+Kiribati,55.6,KIR
+Kyrgyzstan,36.9,KGZ
+Laos,36.3,LAO
+Latvia,68.3,LVA
+Lebanon,88.9,LBN
+Lesotho,29,LSO
+Liberia,52.1,LBR
+Libya,80.7,LBY
+Liechtenstein,14.4,LIE
+Lithuania,68,LTU
+Luxembourg,91.5,LUX
+Macau,100,MAC
+Madagascar,38.5,MDG
+Malawi,17.4,MWI
+Malaysia,77.2,MYS
+Maldives,40.7,MDV
+Mali,43.9,MLI
+Malta,94.7,MLT
+Marshall Islands,77.8,MHL
+Mauritania,55.3,MRT
+Mauritius,40.8,MUS
+Mexico,80.7,MEX
+Moldova,42.8,MDA
+Monaco,100,MCO
+Mongolia,68.7,MNG
+Montenegro,67.5,MNE
+Montserrat,9.1,MSR
+Morocco,63.5,MAR
+Mozambique,37.1,MOZ
+Myanmar,31.1,MMR
+Namibia,52,NAM
+Nauru,100,NRU
+Nepal,20.6,NPL
+Netherlands,92.2,NLD
+New Caledonia,71.5,NCL
+New Zealand,86.7,NZL
+Nicaragua,59,NIC
+Niger,16.6,NER
+Nigeria,52,NGA
+Niue,46.2,NIU
+North Korea,62.4,PRK
+North Macedonia,58.5,MKD
+Northern Mariana Islands,91.8,MNP
+Norway,83,NOR
+Oman,86.3,OMN
+Pakistan,37.2,PAK
+Palau,81,PLW
+Palestine,76.7,PSE
+Panama,68.4,PAN
+Papua New Guinea,13.3,PNG
+Paraguay,62.2,PRY
+Peru,78.3,PER
+Philippines,47.4,PHL
+Poland,60,POL
+Portugal,66.3,PRT
+Puerto Rico,93.6,PRI
+Qatar,99.2,QAT
+Republic of the Congo,67.8,COG
+Romania,56.4,ROU
+Russia,74.8,RUS
+Rwanda,17.4,RWA
+"Saint Helena, Ascension and Tristan da Cunha",40.1,SHN
+Saint Kitts and Nevis,30.8,KNA
+Saint Lucia,18.8,LCA
+Saint Pierre and Miquelon,90,SPM
+Saint Vincent and the Grenadines,53,VCT
+San Marino,97.5,SMR
+Saudi Arabia,84.3,SAU
+Senegal,48.1,SEN
+Serbia,56.4,SRB
+Seychelles,57.5,SYC
+Sierra Leone,42.9,SLE
+Singapore,100,SGP
+Sint Maarten,100,SXM
+Slovakia,53.8,SVK
+Slovenia,55.1,SVN
+Solomon Islands,24.7,SLB
+Somalia,46.1,SOM
+South Africa,67.4,ZAF
+South Korea,81.4,KOR
+South Sudan,20.2,SSD
+Spain,80.8,ESP
+Sri Lanka,18.7,LKA
+Sudan,35.3,SDN
+Suriname,66.1,SUR
+Sweden,88,SWE
+Switzerland,73.9,CHE
+Syria,55.5,SYR
+Taiwan,78.9,TWN
+Tajikistan,27.5,TJK
+Tanzania,35.2,TZA
+Thailand,51.4,THA
+The Bahamas,83.2,BHS
+The Gambia,62.6,GMB
+Togo,42.8,TGO
+Tonga,23.1,TON
+Trinidad and Tobago,53.2,TTO
+Tunisia,69.6,TUN
+Turkey,76.1,TUR
+Turkmenistan,52.5,TKM
+Turks and Caicos Islands,93.6,TCA
+Tuvalu,64,TUV
+Uganda,25,UGA
+Ukraine,69.6,UKR
+United Arab Emirates,87,ARE
+United Kingdom,83.9,GBR
+United States,82.7,USA
+Uruguay,95.5,URY
+Uzbekistan,50.4,UZB
+Vanuatu,25.5,VUT
+Venezuela,88.3,VEN
+Vietnam,37.3,VNM
+Western Sahara,86.8,ESH
+Yemen,36.6,YEM
+Zambia,44.6,ZMB
+Zimbabwe,32.2,ZWE
